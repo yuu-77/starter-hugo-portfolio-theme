@@ -1,5 +1,5 @@
 ---
-title: 反向解讀科普文章
+title: 反向解讀科普文章初稿
 summary: 
 tags:
   - NLP
