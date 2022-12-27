@@ -63,8 +63,11 @@ social:
 #email: "yuchi030904@gmail.com"
 ---
 
- 大家好，我是慈濟大學人類發展與心理學系的學生，特過本次課程的機會，可以在此發表自己的文章，歡迎大家點閱、指，謝謝。
+ 大家好!
+ 我是慈濟大學人類發展與心理學系的學生
+ 特過課程的機會 可以在此發表自己的文章
+ 歡迎大家點閱、指教 謝謝大家 (*´∀`)~♥
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
