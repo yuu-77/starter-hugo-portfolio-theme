@@ -1,5 +1,5 @@
 ---
-title: 評論學術誠信案例初稿
+title: 評論學術誠信案例
 summary:
 tags:
   - ML
