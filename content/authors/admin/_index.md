@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡
 
 #interests:
 #- Artificial Intelligence
@@ -69,7 +69,11 @@ social:
 
  特過課程的機會 可以在此發表自己的文章
 
- 歡迎大家點閱、指教 謝謝大家 (*´∀`)~♥
+ 歡迎大家點閱、給予回饋 
+ 
+ 也歡迎大家在課程外與我交流
+
+ 謝謝大家 ฅ ̳͒•ˑ̫• ̳͒ฅ
 
 
 
