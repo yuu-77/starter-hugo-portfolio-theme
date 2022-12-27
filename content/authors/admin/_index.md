@@ -44,12 +44,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact' # For a direct email link, use "yuchi030904@gmail.com".
   - icon: twitter
     icon_pack: fab
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/chi.y.u/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -65,7 +65,7 @@ social:
 #email: "yuchi030904@gmail.com"
 ---
 
- 我是慈濟大學人類發展與心理學系的學生，特過本次課程的機會，可以在此發表自己的文章，歡迎大家點閱、指教，謝謝。
+ 大家好，我是慈濟大學人類發展與心理學系的學生，特過本次課程的機會，可以在此發表自己的文章，歡迎大家點閱、指，謝謝。
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
