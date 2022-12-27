@@ -22,5 +22,5 @@ date: 2022-12-19
 ________________________________
 1.	貝氏定理-維基百科。
 https://zh.wikipedia.org/zh-tw/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%AE%9A%E7%90%86
-2.【機率思考】第20-22章。
+2. 【機率思考】第20-22章。
 3. https://leemeng.tw/intuitive-understandind-of-bayes-rules-and-learn-from-experience.html

@@ -38,9 +38,9 @@ IV.	文章中提到到各個因素之間，我認為其關係都很緊密，因�
 
 
 ________________________________
-1.中華心理學刊 ； 58卷4期 (2016 / 12 / 01) ， P263 – 291 http://www.cjpsy.com/guidedetail_tw.php?id=2807
-2.https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10139656-201612-201702130016-201702130016-263-291
-3.簡稱TMT，由傑夫・格林伯格Jeff Greenberg提出。這個理論人們因為有心理上的衝突而結果令他們想在世上記下自己的價值。 
-4.https://zh.m.wikipedia.org/zh-tw/%E6%81%90%E6%87%BC%E7%AE%A1%E7%90%86%E7%90%86%E8%AB%96
-5.近端防衛與遠端防衛。
-6.源於希臘文，意為無痛苦、幸福地死，肯定生命存在的質比量更有價值。
+1. 中華心理學刊 ； 58卷4期 (2016 / 12 / 01) ， P263 – 291 http://www.cjpsy.com/guidedetail_tw.php?id=2807
+2. https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10139656-201612-201702130016-201702130016-263-291
+3. 簡稱TMT，由傑夫・格林伯格Jeff Greenberg提出。這個理論人們因為有心理上的衝突而結果令他們想在世上記下自己的價值。 
+4. https://zh.m.wikipedia.org/zh-tw/%E6%81%90%E6%87%BC%E7%AE%A1%E7%90%86%E7%90%86%E8%AB%96
+5. 近端防衛與遠端防衛。
+6. 源於希臘文，意為無痛苦、幸福地死，肯定生命存在的質比量更有價值。
