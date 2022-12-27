@@ -45,8 +45,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "yuchi030904@gmail.com".
-  - icon: twitter
-    icon_pack: fab
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/chi.y.u/
