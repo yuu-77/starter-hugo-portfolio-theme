@@ -64,10 +64,12 @@ social:
 ---
 
  大家好!
+
  我是慈濟大學人類發展與心理學系的學生
+
  特過課程的機會 可以在此發表自己的文章
+ 
  歡迎大家點閱、指教 謝謝大家 (*´∀`)~♥
 
 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
